@@ -1,0 +1,7 @@
+{
+    // ...
+    "require": {
+        "chrisboulton/php-resque": "1.2.x"  // Most recent tagged version
+    },
+    // ...
+}
